@@ -3,10 +3,10 @@ package com.bolsadeideas.springboot.reactor.app.models;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Comentario {
+public class Comentarios {
     private List<String> comentarios;
 
-    public Comentario() {
+    public Comentarios() {
         this.comentarios = new ArrayList<>();
     }
 
